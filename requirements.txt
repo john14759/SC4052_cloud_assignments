@@ -1,0 +1,6 @@
+openai
+streamlit
+langchain-openai
+azure-identity
+requests
+python-dotenv
